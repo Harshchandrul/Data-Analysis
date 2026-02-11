@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Python cache
+__pycache__/
