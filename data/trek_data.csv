@@ -1,0 +1,21 @@
+Trek_ID,Trek_Name,Location,Date,Difficulty,Capacity,Registered,Attended,Price_Per_Person,Total_Revenue,Operational_Cost,Profit,Marketing_Channel,Cancellations,Avg_Feedback
+1,Mount Sumel Sunrise Trek,Mount Sumel,2025-01-14,Moderate,40,38,36,999,35964,18000,17964,Instagram,2,4.6
+2,Ban Ki Ghati Forest Trek,Ban ki ghati,2025-02-04,Easy,35,32,31,899,27869,14000,13869,WhatsApp,1,4.4
+3,Raghunath Fort Heritage Trek,Raghunath fort,2025-02-18,Easy,50,46,45,799,35955,12000,23955,Instagram,1,4.7
+4,Saan Valley Green Trail,Saan valley,2025-03-03,Moderate,45,42,40,1099,43960,19000,24960,Instagram,2,4.5
+5,Achrol Hills Explorer Trek,Achrol trek,2025-03-16,Moderate,40,36,34,999,33966,17000,16966,WhatsApp,2,4.3
+6,Chabutra Sunset Trek,Chabutra trek,2025-03-30,Easy,30,28,27,799,21573,9000,12573,Posters,1,4.6
+7,Mount Sumel Night Trek,Mount Sumel,2025-04-07,Hard,30,27,24,1299,31176,20000,11176,Instagram,3,4.2
+8,Ban Ki Ghati Monsoon Trek,Ban ki ghati,2025-04-21,Moderate,35,33,30,999,29970,16000,13970,WhatsApp,3,4.1
+9,Raghunath Fort Sunrise Trek,Raghunath fort,2025-05-05,Easy,45,42,41,899,36859,11000,25859,Instagram,1,4.8
+10,Saan Valley Waterfall Trek,Saan valley,2025-05-19,Hard,30,28,25,1399,34975,23000,11975,Posters,3,4.0
+11,Achrol Ridge Trek,Achrol trek,2025-06-02,Moderate,40,37,35,1099,38465,18000,20465,Instagram,2,4.4
+12,Chabutra Forest Loop,Chabutra trek,2025-06-16,Easy,35,34,33,899,29667,10000,19667,WhatsApp,1,4.6
+13,Mount Sumel Peak Assault,Mount Sumel,2025-07-01,Hard,25,24,22,1499,32978,24000,8978,Instagram,2,4.1
+14,Ban Ki Ghati Sunrise Walk,Ban ki ghati,2025-07-15,Easy,40,38,37,799,29563,9000,20563,WhatsApp,1,4.7
+15,Raghunath Fort Night Trek,Raghunath fort,2025-07-28,Moderate,45,41,39,999,38961,15000,23961,Instagram,2,4.5
+16,Saan Valley Cloud Trek,Saan valley,2025-08-10,Moderate,40,38,35,1099,38465,17000,21465,Instagram,3,4.3
+17,Achrol Monsoon Special,Achrol trek,2025-08-24,Hard,30,28,26,1399,36374,22000,14374,Posters,2,4.2
+18,Chabutra Hilltop Trek,Chabutra trek,2025-09-06,Moderate,35,33,32,999,31968,14000,17968,WhatsApp,1,4.5
+19,Mount Sumel Autumn Trek,Mount Sumel,2025-09-20,Easy,40,39,38,899,34162,12000,22162,Instagram,1,4.8
+20,Saan Valley Final Season Trek,Saan valley,2025-10-05,Moderate,45,42,40,1099,43960,19000,24960,Instagram,2,4.6
